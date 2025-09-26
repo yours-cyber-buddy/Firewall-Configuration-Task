@@ -102,7 +102,7 @@ In this task, I configured and tested firewalls on both **Windows** and **Linux 
 
 ## Repository Structure
 
-/Firewall-Configuration-Task/ 
+``/Firewall-Configuration-Task/ 
 │
 ├── README.md                             # This file - explanation, steps, summary
 │
@@ -139,9 +139,10 @@ In this task, I configured and tested firewalls on both **Windows** and **Linux 
 │   │   ├── SMTP check.png
 │   │   ├── Telnet check.png
 │
-└── References.md
+└── References.md``
 
 ---
 ## References
 
 For all commands, configurations, and learning resources, see `References.md` in this repo.
+
