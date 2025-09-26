@@ -104,9 +104,9 @@ In this task, I configured and tested firewalls on both **Windows** and **Linux 
 
 /Firewall-Configuration-Task/
 │
-├── README.md                             # This file - explanation, steps, summary
-│                                                                                                       
-├── /Windows/                             # Windows Firewall work
+├── README.md                # This file - explanation, steps, summary
+│
+├── /Windows/                # Windows Firewall work
 │   ├── Windows_Firewall_Steps.md
 │   ├── Creating screenshots/
 │   │   ├── Before changes.png
@@ -127,7 +127,7 @@ In this task, I configured and tested firewalls on both **Windows** and **Linux 
 │   ├── firewall-after-TF4.wfw
 │   ├── firewall-backup-before.wfw
 │
-├── /Linux/                               # Linux UFW work
+├── /Linux/                  # Linux UFW work
 │   ├── UFW Steps.md
 │   ├── Creating Screenshots/
 │   │   ├── All created rules.png
@@ -140,10 +140,10 @@ In this task, I configured and tested firewalls on both **Windows** and **Linux 
 │   │   ├── Telnet check.png
 │
 └── References.md
-
 ---
 ## References
 
 For all commands, configurations, and learning resources, see `References.md` in this repo.
+
 
 
